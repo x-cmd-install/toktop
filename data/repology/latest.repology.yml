@@ -1,0 +1,14 @@
+- repo: homebrew
+  srcname: toktop
+  visiblename: toktop
+  version: 0.1.5
+  origversion: null
+  status: unique
+  summary: LLM usage monitor in terminal
+- repo: homebrew
+  srcname: toktop
+  visiblename: toktop
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: LLM usage monitor in terminal
