@@ -1,9 +1,21 @@
+- repo: aur
+  srcname: toktop
+  binname: toktop
+  visiblename: toktop
+  version: 0.1.5
+  origversion: 0.1.5-1
+  status: newest
+  summary: A terminal dashboard for monitoring OpenAI and Anthropic token usage
+  maintainers:
+    - ahp@aur
+  licenses:
+    - MIT
 - repo: homebrew
   srcname: toktop
   visiblename: toktop
   version: 0.1.5
   origversion: null
-  status: unique
+  status: newest
   summary: LLM usage monitor in terminal
 - repo: homebrew
   srcname: toktop
