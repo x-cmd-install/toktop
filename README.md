@@ -45,12 +45,12 @@ Total: **3,722** lines of code across **26** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 360d | 2025-12-01 | 1 | 1 | 1 | 1 | 1 | 0 |
-| last720d | 2024-12-06 | 5 | 5 | 1 | 1 | 4 | 60 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 360d | 2025-12-02 | 1 | 1 | 1 | 1 | 1 | 4 |
+| last720d | 2024-12-07 | 5 | 5 | 1 | 1 | 4 | 60 |
 
 ## Distribution status
 
@@ -69,4 +69,4 @@ Install metadata for toktop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:34:19Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:41:51Z._
